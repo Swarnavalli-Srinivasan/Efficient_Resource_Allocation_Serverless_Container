@@ -1,0 +1,13 @@
+CurrentTime 600.1
+LastTime 305.22
+TimeDiff 294.88
+TotalEnergy 533320.6300846549
+NumVsEnded 8.0
+AverageResponseTime 0.006625000000000001
+AverageMigrationTime 2.64
+AverageCompletionTime 414.9450000000001
+TotalCost 21.96548833333331
+SLAOverall 5.02694567105479E-4
+VMsMigrated 27
+HostPenalty 0
+MigrationPenalty 0

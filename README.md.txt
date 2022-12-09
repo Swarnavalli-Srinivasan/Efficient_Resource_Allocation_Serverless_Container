@@ -15,9 +15,28 @@ String conatinerSelectionPolicy = "mmt"; // Minimum Migration Time (MMT) Conatin
 ```
 3. Run the *PEBFDLR.java/* class.
 
-4. The baseline model starts running by creating conatiners and teh stimulation interval is divided set of interval and each interval is 5 mins long. During each interval the loss is computed and the model is defined as optimal solution to reduce the overall loss.
+4. The baseline model starts running by creating conatiners and the stimulation interval is divided set of interval and each interval is 5 mins long. During each interval the loss is computed and the model is defined as optimal solution to reduce the overall loss.
 
-5. The output file *DL.txt* is used to create combined performance '.pickle' file using *Results/saveData.py*. To generate graphs, use *Results/resultGen.py* on the pickle file. 
+5. Copy the output file *DL.txt* present parallel to DLF folder to *\DLSF\Models\LR-MTT* 
+
+6. This output file will be used to create perfomance combination '.pickle' by the python file *Results/saveData.py*. The pickle files are stored in the path *\DLSF\Results\Data\LR-MTT*
+
+7. Select the improvement model selection and placement algorithm to run the proposed powe efficieny improvement model.
+```
+String conatinerAllocationPolicy =  "PEBFDlr"; // Power efficiency Local Regression (LR) Conatiner allocation policy
+String conatinerSelectionPolicy = "mmt"; // Minimum Migration Time (MMT) Conatiner selection policy
+```
+8. Run the *PEBFDLR.java/* class.
+
+9. The model starts running by creating conatiners and the stimulation interval is divided set of interval and each interval is 5 mins long. During each interval the loss is computed and the model is defined as optimal solution to reduce the overall loss.
+
+10. Copy the output file *DL.txt* present parallel to DLF folder to *\DLSF\Models\PEBFDLR-MTT* 
+
+11. This output file will be used to create perfomance combination '.pickle' by the python file *Results/saveData.py*. The pickle files are stored in the path *\DLSF\Results\Data\PEBFDLR-MTT*
+
+12. The benchmark graphs will be generated using *Results/resultGen.py* on the pickle file. 
+
+13. The benchamrk graphs will be stored in *\DLSF*
 
 ## Developer
 
