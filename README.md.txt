@@ -17,7 +17,7 @@ String conatinerSelectionPolicy = "mmt"; // Minimum Migration Time (MMT) Conatin
 
 4. The baseline model starts running by creating conatiners and teh stimulation interval is divided set of interval and each interval is 5 mins long. During each interval the loss is computed and the model is defined as optimal solution to reduce the overall loss.
 
-5. The output file *DL.txt* can be used to create a combined performance '.pickle' file using *Results/saveData.py*. To generate graphs, you can use *Results/resultGen.py* on the pickle file. 
+5. The output file *DL.txt* is used to create combined performance '.pickle' file using *Results/saveData.py*. To generate graphs, use *Results/resultGen.py* on the pickle file. 
 
 ## Developer
 
