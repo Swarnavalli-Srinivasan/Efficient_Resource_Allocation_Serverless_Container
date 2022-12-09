@@ -40,7 +40,19 @@ String conatinerSelectionPolicy = "mmt"; // Minimum Migration Time (MMT) Conatin
 
 ## Benchmark
 <div align="center">
-<img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Toatl_energy_consumed.png" width="900" align="middle">
+<img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Toatl_energy_consumed.png" width="400" align="middle">
+</div>
+
+<div align="center">
+<img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/No_of_SLA_Violation.png" width="400" align="middle">
+</div>
+
+<div align="center">
+<img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Response_time.png" width="400" align="middle">
+</div>
+
+<div align="center">
+<img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Average_time_to_complete_a_task.png" width="400" align="middle">
 </div>
 
 ## Developer
