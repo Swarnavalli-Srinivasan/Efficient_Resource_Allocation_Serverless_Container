@@ -38,6 +38,11 @@ String conatinerSelectionPolicy = "mmt"; // Minimum Migration Time (MMT) Conatin
 
 13. The benchamrk graphs will be stored in *\DLSF*
 
+## Benchmark
+<div align="center">
+<img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Toatl_energy_consumed.png" width="900" align="middle">
+</div>
+
 ## Developer
 
 [Swarnavalli Srinivasan](https://www.github.com/Swarnavalli-Srinivasan) (swarnavalli.srinivasan@gmail.com)
