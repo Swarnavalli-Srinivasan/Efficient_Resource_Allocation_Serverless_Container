@@ -39,17 +39,28 @@ String conatinerSelectionPolicy = "mmt"; // Minimum Migration Time (MMT) Conatin
 13. The benchamrk graphs will be stored in *\DLSF*
 
 ## Benchmark
+
+After running above steps, we can see benchmark as below with some graphs.
+
+1.Comparision of energy efficiency between the baseline model and proposed improvement model.
 <div align="center">
 <img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Toatl_energy_consumed.png" width="400" align="middle">
 </div>
+
+
+2.Comparision of number of SLA violation between the baseline model and proposed improvement model.
 
 <div align="center">
 <img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/No_of_SLA_Violation.png" width="400" align="middle">
 </div>
 
+3.Comparision of response time between the baseline model and proposed improvement model.
+
 <div align="center">
 <img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Response_time.png" width="400" align="middle">
 </div>
+
+4.Comparision of average time taken to complete a task between the baseline model and proposed improvement model.
 
 <div align="center">
 <img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Average_time_to_complete_a_task.png" width="400" align="middle">
