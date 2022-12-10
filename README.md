@@ -30,6 +30,13 @@ String conatinerSelectionPolicy = "mmt"; // Minimum Migration Time (MMT) Conatin
 
 9. The model starts running by creating conatiners and the stimulation interval is divided set of interval and each interval is 5 mins long. During each interval the loss is computed and the model is defined as optimal solution to reduce the overall loss.
 
+<p>&nbsp;</p>
+<div align="center">
+<img src="https://github.com/Swarnavalli-Srinivasan/Efficient_Resource_Allocation_Serverless_Container/blob/main/DLSF/Results/Proposed_model_op.png" width="600" align="middle">
+</div>
+
+<p>&nbsp;</p>
+
 10. Copy the output file *DL.txt* present parallel to DLF folder to *\DLSF\Models\PEBFDLR-MTT* 
 
 11. This output file will be used to create perfomance combination '.pickle' by the python file *Results/saveData.py*. The pickle files are stored in the path *\DLSF\Results\Data\PEBFDLR-MTT*
