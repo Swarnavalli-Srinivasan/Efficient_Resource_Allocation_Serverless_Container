@@ -10,7 +10,7 @@ Serverless Container which is also known as Function-as-a-Service (FaaS) gives t
 
 
 ## Quick setup and run tutorial
-Clone the repository and open the DLF folder in Idea IntelliJ IDE to execute the project.
+Have mentioned path in the code. So create a folder D:\swarna and Clone the repository inside the folder and open the DLF folder in Idea IntelliJ IDE to execute the project.
 1. In the terminal go the class *PEBFDLR.java/* inside the package package org.cloudbus.cloudsim.examples.power.DeepRL.
 
 2. Select the baseline selection and placement algorithm to run the baseline model.
