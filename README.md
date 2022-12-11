@@ -2,6 +2,11 @@
 Serverless Container which is also known as Function-as-a-Service (FaaS) gives the opportunity to write and update a piece of code on the fly and execute it in future as a response to an event like API trigger without having to worry about underlying architecture. Serverless applications run on Worker nodes which are temporary containers and it is up to platform providers to manage them. The issue here, however, is that there is a delay in the creation of these worker nodes as temporary containers ready for your initial invocation. Among the proposed efficient resource allocation algorithm for serverless container Dynamic Scheduling for Stochastic Edge-Cloud Computing Environments using A3C  learning and Residual Recurrent Neural Networks is one of  the  promising  approaches. Both the Residual Recurrent Neural Network (R2N2) and the Asynchronous- Advantage-Actor-Critical (A3C) learning proposed in  this  approach  are  known for updating model parameters quickly. In order to support decentralized learning across numerous agents in stochastic Edge-Cloud environments, this approach proposes an A3C-based real-time scheduler. They capture multiple  host and task parameters using the R2N2 architecture, along with temporal pat- terns, to produce efficient scheduling decisions. In this paper we propose a container allocation algorithm which incorporates energy efficient and bin packing heuristics to improve the energy efficiency of the model. Medium-Fit (MF), bin packing heuristics is incorporated to reduce SLA violation. Through experiments in CloudSim we compared the performance of both the model. The results indicate that the power efficient based model showed an improvement of 67% in terms of energy consumption
 ## Contributions
 
+## System Requirements:
+1.	Idea IntelliJ IDE 
+2.	Python 3.8
+3.	Matplotlib python package
+4.	scienceplots python package
 
 
 ## Quick setup and run tutorial
