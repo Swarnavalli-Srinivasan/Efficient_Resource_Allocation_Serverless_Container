@@ -105,8 +105,8 @@ After running above steps, we can see benchmark as below with some graphs.
 [Swarnavalli Srinivasan](https://www.github.com/Swarnavalli-Srinivasan) (swarnavalli.srinivasan@gmail.com)
 [Divya SureshKumar Thangam ](https://www.github.com/DivyaSureshkumarthangam) (divyast.18@gmail.com)
 
-#Contribution
-Swarnavalli Srinivasan
+# Contribution
+# Swarnavalli Srinivasan
 1. Did research and analysed the various resource allocation algorithm for efficient resource allocation for serverless container.
 2. Design and implemented the Deep learning A3C algorithm for container allocation
 3. Designed and implemented the baseline model local regression, container allocation policy.
@@ -117,7 +117,7 @@ Swarnavalli Srinivasan
 
 
 
-Divya SureshKumar Thangam
+# Divya SureshKumar Thangam
 1. Did research and analysed the various resource allocation algorithm for efficient resource allocation for serverless container
 2. Design and implemented the Deep learning A3C algorithm for container allocation.
 3. Designed and implemented the baseline model minimum migration time, container selection policy.
