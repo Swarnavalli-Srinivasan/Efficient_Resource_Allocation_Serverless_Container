@@ -105,4 +105,27 @@ After running above steps, we can see benchmark as below with some graphs.
 [Swarnavalli Srinivasan](https://www.github.com/Swarnavalli-Srinivasan) (swarnavalli.srinivasan@gmail.com)
 [Divya SureshKumar Thangam ](https://www.github.com/DivyaSureshkumarthangam) (divyast.18@gmail.com)
 
+#Contribution
+Swarnavalli Srinivasan
+1. Did research and analysed the various resource allocation algorithm for efficient resource allocation for serverless container.
+2. Design and implemented the Deep learning A3C algorithm for container allocation
+3. Designed and implemented the baseline model local regression, container allocation policy.
+4. Designed and implemented the improvement model PEBFD algorithm for improvement model.
+5. Generated and analysed the benchmark for the baseline and the improvement model.
+6. Design and implemented the python code to generate the benchmark graphs
+7. Wrote final report
+
+
+
+Divya SureshKumar Thangam
+1. Did research and analysed the various resource allocation algorithm for efficient resource allocation for serverless container
+2. Design and implemented the Deep learning A3C algorithm for container allocation.
+3. Designed and implemented the baseline model minimum migration time, container selection policy.
+4. Designed and implemented the improvement model PEFFD algorithm for improvement model.
+5. Generated and analysed the benchmark for the baseline and the improvement model.
+6. Design and implemented the python code to generate the benchmark graphs
+7. Wrote final report
+
+
+
 
